@@ -1,4 +1,4 @@
-# UI/UX Competition Evaluator — Skill Pack
+# UI/UX Design Competition  — Skill Pack
 
 A detailed, evidence-led agent skill for reviewing UI/UX competition projects from the first reading of the guidebook through final submission. It is designed for competitions where the main deliverable is research, interface design, user experience, an interactive prototype, a proposal/report, and a pitch—not necessarily a coded production product.
 
